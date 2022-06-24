@@ -17,7 +17,7 @@ public class raio_do_circulo {
 	double z = x*x*pi;
 	
 	System.out.printf("o valor do raio foi:%.4f",z);
-	//colocar 4 casas apó a virgula 
+	
 	sc.close();
 	}
 
